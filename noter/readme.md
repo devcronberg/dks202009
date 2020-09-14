@@ -3898,9 +3898,6 @@ Ret package.json således, at der oprettes et script
   "dependencies": {
     "axios": "^0.19.0",    
     "underscore": "^1.9.1"
-  },
-  "devDependencies": {
-    "regenerator-runtime": "^0.13.3"
   }
 }
 ```
