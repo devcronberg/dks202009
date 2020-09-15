@@ -22,9 +22,10 @@ er følgende materiale skabt
 - [Web applikationen](40webapp.md)
 - [HTML](50html.md)
 - [CSS](60css.md)
+- [Node](80node.md)
 - [JS](70js.md)
 - [TS](75ts.md)
-- [Node](80node.md)
+- [Vue](85vue.md)
 - [MVC](90aspnetcoremvc.md)
 - [Blazor](95introblazor.md)
 
